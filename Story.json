@@ -1,0 +1,52 @@
+
+[
+    {
+        "type": "psycho",
+        "name": "Norman Bates",
+        "eos": "he is psycho",
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_giraffe.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/giraffe.jpg"
+    },
+    {
+        "type": "psychopath",
+        "name": "The Iceman",
+        "eos": "he is psychopath",
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_galah.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/galah.jpg"
+    },
+    {
+        "type": "mistery",
+        "name": "who is?",
+        "eos": "who?",
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_dartfrog.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/dartfrog.jpg"
+    },
+    {
+        "type": "creepy",
+        "name": "he is...",
+        "eos": "he is the killer",
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_addax.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/addax.jpg"
+    },
+    {
+        "type": "psycho",
+        "name": "Jeff The Killer",
+        "eos": "he the psycho",
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_tiger.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/tiger.jpg"
+    },
+    {
+        "type": "psychopath",
+        "name": "Jimmy the Psychopath",
+        "eos": "he is the psychopath",
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_elephant.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/elephant.jpg"
+    },
+    {
+        "type": "creepy",
+        "name": "who am i",
+        "eos": "he is dead",
+        "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_rhino.jpg",
+        "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/rhino.jpg"
+    }
+]
