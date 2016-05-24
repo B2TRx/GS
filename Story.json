@@ -3,7 +3,7 @@
     {
         "type": "psycho",
         "name": "Norman Bates",
-        "eos": "https://raw.githubusercontent.com/B2TRx/GS/master/norman.txt"
+        "eos" : "https://raw.githubusercontent.com/B2TRx/GS/master/norman.txt"
         "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/giraffe.jpg"
     },
     {
